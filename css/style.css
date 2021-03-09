@@ -1,0 +1,23 @@
+ body {
+     background-image: url(/img/thumbnail.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ header {
+     color: aliceblue;
+     background-color: rgba(128, 128, 128, 0.603);
+     border-bottom: honeydew;
+     border-bottom-style: solid;
+ }
+ 
+ h1 {
+     position: relative;
+ }
+ 
+ li {
+     float: right;
+     margin-left: 100px;
+     /* margin-bottom: -60px; */
+     position: initial;
+ }
